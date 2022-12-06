@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaView} from 'react-native';
-import Children from './DIrectComm/Children';
+import Children from './Children';
 
 export default function Father() {
   let x = 13;
